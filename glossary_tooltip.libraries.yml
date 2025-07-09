@@ -1,0 +1,7 @@
+glossary-tooltip:
+  js:
+    js/glossary-tooltip.js: { }
+  dependencies:
+    - core/jquery
+    - core/jquery.ui
+    - core/jquery.ui.tooltip
